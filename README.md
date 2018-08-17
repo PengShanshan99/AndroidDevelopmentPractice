@@ -1,2 +1,2 @@
 # SoftwareDevelopmentPractice
-This is for an android development practice
+This is for software development resources and practice.
